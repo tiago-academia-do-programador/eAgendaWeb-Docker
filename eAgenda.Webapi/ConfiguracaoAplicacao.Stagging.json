@@ -1,0 +1,11 @@
+{
+  "VersaoSistema": "2.0",
+
+  "ConfiguracaoLogs": {
+    "DiretorioSaida": "D:\\logs\\eAgenda"
+  },
+
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=sqlserver-db; Database=eAgendaDB; User Id=sa; Password=sBC3Ax0mRg9_AO2; MultipleActiveResultSets=True; Encrypt=True; TrustServerCertificate=True;"
+  }
+}
